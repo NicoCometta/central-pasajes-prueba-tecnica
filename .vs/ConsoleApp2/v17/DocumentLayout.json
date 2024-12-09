@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\application\\encrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|solutionrelative:application\\encrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\application\\encrypters\\aplicarfuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|solutionrelative:application\\encrypters\\aplicarfuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\application\\interfaces\\isecurityelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|solutionrelative:application\\interfaces\\isecurityelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5A9BF-020B-4E58-B989-470C1A8688D1}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5A9BF-020B-4E58-B989-470C1A8688D1}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\application\\enums\\encryptionalgorithmtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|solutionrelative:application\\enums\\encryptionalgorithmtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\application\\encrypters\\invertirorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|solutionrelative:application\\encrypters\\invertirorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|c:\\users\\nico_\\source\\repos\\consoleapp2\\application\\encrypters\\linqrecursividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6EFD5F-42EA-4278-826D-351A70AFC1BC}|Application\\Application.csproj|solutionrelative:application\\encrypters\\linqrecursividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncryptionAlgorithmType.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Enums\\EncryptionAlgorithmType.cs",
+              "RelativeDocumentMoniker": "Application\\Enums\\EncryptionAlgorithmType.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Enums\\EncryptionAlgorithmType.cs",
+              "RelativeToolTip": "Application\\Enums\\EncryptionAlgorithmType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:59:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encrypter.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypter.cs",
+              "RelativeDocumentMoniker": "Application\\Encrypter.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypter.cs",
+              "RelativeToolTip": "Application\\Encrypter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:23:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinqRecursividad.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypters\\LinqRecursividad.cs",
+              "RelativeDocumentMoniker": "Application\\Encrypters\\LinqRecursividad.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypters\\LinqRecursividad.cs",
+              "RelativeToolTip": "Application\\Encrypters\\LinqRecursividad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:15:33.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvertirOrden.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypters\\InvertirOrden.cs",
+              "RelativeDocumentMoniker": "Application\\Encrypters\\InvertirOrden.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypters\\InvertirOrden.cs",
+              "RelativeToolTip": "Application\\Encrypters\\InvertirOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:15:19.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplicarFuncion.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypters\\AplicarFuncion.cs",
+              "RelativeDocumentMoniker": "Application\\Encrypters\\AplicarFuncion.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Encrypters\\AplicarFuncion.cs",
+              "RelativeToolTip": "Application\\Encrypters\\AplicarFuncion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:15:00.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISecurityElement.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Interfaces\\ISecurityElement.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ISecurityElement.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\Application\\Interfaces\\ISecurityElement.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ISecurityElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:14:53.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nico_\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:46:07.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

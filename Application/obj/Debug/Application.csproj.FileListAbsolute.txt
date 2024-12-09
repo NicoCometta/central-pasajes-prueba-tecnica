@@ -1,0 +1,10 @@
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\bin\Debug\Application.dll
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\bin\Debug\Application.pdb
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\obj\Debug\Applicat.44B5EDA2.Up2Date
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\obj\Debug\Application.dll
+C:\Users\Nico_\source\repos\ConsoleApp2\Application\obj\Debug\Application.pdb
